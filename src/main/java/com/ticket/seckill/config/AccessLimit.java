@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 
+ *
  * @Author: Shawn Chen
  * @Date: 2023/6/9
  **/
