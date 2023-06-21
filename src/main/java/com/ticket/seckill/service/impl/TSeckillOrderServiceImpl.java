@@ -16,8 +16,8 @@ import javax.annotation.Resource;
 /**
  * 秒杀订单表 服务实现类
  *
- * @author LiChao
- * @since 2022-03-03
+ * @Author: Shawn Chen
+ * @Date: 2023/6/21
  */
 @Service
 @Primary
