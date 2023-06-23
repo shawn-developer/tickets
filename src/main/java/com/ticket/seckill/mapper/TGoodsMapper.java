@@ -21,7 +21,7 @@ public interface TGoodsMapper extends BaseMapper<TGoods> {
      * @operation add
      * @date 5:50 下午 2022/3/3
      * @param
-     * @return java.util.List<com.example.seckilldemo.vo.GoodsVo>
+     * @return java.util.List<com.ticket.seckill.vo.GoodsVo>
      **/
     List<GoodsVo> findGoodsVo();
 
