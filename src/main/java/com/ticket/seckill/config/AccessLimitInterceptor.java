@@ -1,5 +1,9 @@
 package com.ticket.seckill.config;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.ticket.seckill.entity.TUser;
+import com.ticket.seckill.service.ITUserService;
+import com.ticket.seckill.vo.RespBean;
+import com.ticket.seckill.vo.RespBeanEnum;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
