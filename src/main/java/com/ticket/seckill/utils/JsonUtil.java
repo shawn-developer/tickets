@@ -12,8 +12,8 @@ import java.util.List;
 /**
  * Json工具类
  *
- * @author zhoubin
- * @since 1.0.0
+ * @Author: Shawn Chen
+ * @Date: 2023/7/21
  */
 public class JsonUtil {
     private static ObjectMapper objectMapper = new ObjectMapper();
