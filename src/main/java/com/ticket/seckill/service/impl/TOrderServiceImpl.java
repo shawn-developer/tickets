@@ -14,7 +14,6 @@ import com.ticket.seckill.service.ITOrderService;
 import com.ticket.seckill.service.ITSeckillGoodsService;
 import com.ticket.seckill.service.ITSeckillOrderService;
 import com.ticket.seckill.utils.MD5Util;
-import com.ticket.seckill.utils.UUIDUtil;
 import com.ticket.seckill.vo.GoodsVo;
 import com.ticket.seckill.vo.OrderDeatilVo;
 import com.ticket.seckill.vo.RespBeanEnum;

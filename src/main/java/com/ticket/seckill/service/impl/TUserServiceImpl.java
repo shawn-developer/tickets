@@ -8,7 +8,6 @@ import com.ticket.seckill.mapper.TUserMapper;
 import com.ticket.seckill.service.ITUserService;
 import com.ticket.seckill.utils.CookieUtil;
 import com.ticket.seckill.utils.MD5Util;
-import com.ticket.seckill.utils.UUIDUtil;
 import com.ticket.seckill.vo.LoginVo;
 import com.ticket.seckill.vo.RespBean;
 import com.ticket.seckill.vo.RespBeanEnum;
